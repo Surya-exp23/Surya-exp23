@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:00ff9d&height=220&section=header&text=Hey,%20I'm%20Surya%20%F0%9F%91%8B&fontSize=46&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20Systems%20Programming%20%7C%20Full-Stack&descAlignY=58&descSize=18&descColor=e6ffe6" width="100%"/>
+<img src="./assets/matrix-header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00FF9D&background=000000&center=true&vCenter=true&multiline=true&width=780&height=100&lines=01001000+01101001+%E2%80%94+Building+real-time+CV+pipelines;Writing+a+database+engine+in+C%2B%2B+from+scratch;OpenCV+%2B+SORT+tracker+%2B+dual-tier+OCR;console.log(%22probably+debugging+right+now%22)%3B" alt="Typing SVG" />
@@ -217,9 +217,10 @@ int main() {
 3. Go to the repo's **Actions** tab → run the `Generate Snake` workflow once manually (or wait for the daily schedule).
 4. It will push an `output` branch containing the SVG — the `<img>` above already points to it, so it'll light up automatically.
 5. Make sure the repo is **public**, and that Settings → Actions → Workflow permissions is set to **Read and write**.
+6. Also add the `assets/matrix-header.svg` and `assets/matrix-footer.svg` files (provided separately) into an `assets/` folder at the repo root — the top and bottom banners reference them by relative path, so they need to actually exist in the repo to show up.
 
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:0d1f0d,100:000000&height=100&section=footer"/>
+<img src="./assets/matrix-footer.svg" width="100%"/>
 </div>
