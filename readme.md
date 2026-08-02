@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Hey,%20I'm%20Surya%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20Systems%20Programming%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:00ff9d&height=220&section=header&text=Hey,%20I'm%20Surya%20%F0%9F%91%8B&fontSize=46&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20Systems%20Programming%20%7C%20Full-Stack&descAlignY=58&descSize=18&descColor=e6ffe6" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Building+real-time+CV+pipelines+%F0%9F%9A%97;Writing+a+database+engine+in+C%2B%2B+from+scratch;OpenCV+%2B+SORT+tracker+%2B+dual-tier+OCR;console.log(%22probably+debugging+right+now%22)%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00FF9D&background=000000&center=true&vCenter=true&multiline=true&width=780&height=100&lines=01001000+01101001+%E2%80%94+Building+real-time+CV+pipelines;Writing+a+database+engine+in+C%2B%2B+from+scratch;OpenCV+%2B+SORT+tracker+%2B+dual-tier+OCR;console.log(%22probably+debugging+right+now%22)%3B" alt="Typing SVG" />
 </a>
+
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Surya-exp23&label=Profile%20Views&color=00c9ff&style=for-the-badge)](https://github.com/Surya-exp23)
-[![GitHub followers](https://img.shields.io/github/followers/Surya-exp23?label=Followers&style=for-the-badge&color=2c5364)](https://github.com/Surya-exp23?tab=followers)
-![Last commit](https://img.shields.io/github/last-commit/Surya-exp23/Surya-exp23?style=for-the-badge&color=0f2027)
+[![Profile Views](https://komarev.com/ghpvc/?username=Surya-exp23&label=Profile%20Views&color=00ff9d&style=for-the-badge)](https://github.com/Surya-exp23)
+[![GitHub followers](https://img.shields.io/github/followers/Surya-exp23?label=Followers&style=for-the-badge&color=0d1f0d&logoColor=00ff9d)](https://github.com/Surya-exp23?tab=followers)
+![Last commit](https://img.shields.io/github/last-commit/Surya-exp23/Surya-exp23?style=for-the-badge&color=000000&labelColor=000000)
 
 </div>
 
@@ -129,12 +130,12 @@ Ongoing problem-solving log — trees, linked lists, DP — with a focus on writ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Surya-exp23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-exp23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Surya-exp23&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=000000&title_color=00ff9d&icon_color=00ff9d" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-exp23&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=00ff9d" />
 
-<img src="https://streak-stats.demolab.com?user=Surya-exp23&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Surya-exp23&theme=dark&hide_border=true&background=000000&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-exp23&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-exp23&theme=react-dark&hide_border=true&bg_color=000000&color=00ff9d&line=00ff9d&point=ffffff&area=true" width="90%"/>
 
 </div>
 
@@ -142,7 +143,7 @@ Ongoing problem-solving log — trees, linked lists, DP — with a focus on writ
 <summary><b>🏆 Achievements & Trophies</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Surya-exp23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Surya-exp23&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 </details>
 
@@ -200,7 +201,7 @@ int main() {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Surya--exp23-181717?style=for-the-badge&logo=github)](https://github.com/Surya-exp23)
+[![GitHub](https://img.shields.io/badge/GitHub-Surya--exp23-000000?style=for-the-badge&logo=github&logoColor=00ff9d)](https://github.com/Surya-exp23)
 
 *(Swap in your LinkedIn / X / email badges here — same shields.io pattern.)*
 
@@ -220,5 +221,5 @@ int main() {
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:0d1f0d,100:000000&height=100&section=footer"/>
 </div>
