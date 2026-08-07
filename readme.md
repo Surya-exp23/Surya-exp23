@@ -33,7 +33,7 @@ me:
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ### 🛠️ Tech Stack
 
 **Languages**
 
@@ -57,7 +57,46 @@ me:
 
 **Cloud, Tools & OS**
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker" /> -->
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,java" height="32"/>
+</td>
+<td align="center" width="25%">
+<b>Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vscode" height="32"/>
+</td>
+<td align="center" width="25%">
+<b>Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postman" height="32"/>
+</td>
+<td align="center" width="25%">
+<b>Cloud & Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker" height="32"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4">
+<b>AI / ML / Computer Vision</b><br/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" height="24"/>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 <!-- 
