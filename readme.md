@@ -188,7 +188,7 @@ Ongoing problem-solving log — trees, linked lists, DP — with a focus on writ
 
 <!-- --- -->
 
-### 🐍 Contribution Snake
+<!-- ### 🐍 Contribution Snake -->
 
 <div align="center">
 
@@ -236,7 +236,7 @@ int main() {
 
 ---
 
-###  Connect
+<!-- ###  Connect -->
 
 <div align="center">
 
@@ -264,6 +264,6 @@ int main() {
 
 </details> -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="./assets/matrix-footer.svg" width="100%"/>
-</div>
+</div> -->
