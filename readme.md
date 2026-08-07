@@ -31,7 +31,7 @@ me:
   reach_me: "open an issue on this repo — I actually read them 👀"
 ``` -->
 
----
+<!-- --- -->
 
 <!-- ### 🛠️ Tech Stack
 
@@ -250,7 +250,7 @@ int main() {
 
 </div>
 
----
+<!-- --- -->
 
 <!-- <details>
 <summary>⚙️ <b>Setup: how to make the snake animation actually appear</b></summary>
